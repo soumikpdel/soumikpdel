@@ -17,11 +17,7 @@
 * 🎮 Gaming & technology enthusiast
 * 🌱 Always learning something new
 
----
 
-## 🛠️ Tech Stack
-
-currently building a drone from scratch
 
 ---
 
@@ -33,6 +29,7 @@ currently building a drone from scratch
 → Exploring AI & Machine Learning
 → Building personal projects
 → Learning new technologies
+→ currently building a drone from scratch
 ```
 
 ---
