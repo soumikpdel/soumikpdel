@@ -21,11 +21,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode&perline=9" />
-
-</div>
+currently building a drone from scratch
 
 ---
 
