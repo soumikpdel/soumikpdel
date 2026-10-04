@@ -30,27 +30,6 @@
 → currently building a drone from scratch
 ```
 
----
-
-## 🔥 Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| Project           | Description                           |
-| :---------------- | :------------------------------------ |
-| 💻 **Project 01** | Add your project description here     |
-| 🤖 **Project 02** | Add your AI/ML project here           |
-| 🌐 **Project 03** | Add your web development project here |
-
----
 
 
 
