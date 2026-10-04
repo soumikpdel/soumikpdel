@@ -11,12 +11,10 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech CSE (AI & ML) student
-* 💻 Interested in software development and artificial intelligence
-* 🚀 Currently learning and building projects
-* 🎮 Gaming & technology enthusiast
-* 🌱 Always learning something new
-
+*  B.Tech CSE (AI & ML) student
+* Interested in software development and artificial intelligence
+*  Currently learning and building projects
+*  KIIT UNIVERSITY 2ND YEAR
 
 
 ---
