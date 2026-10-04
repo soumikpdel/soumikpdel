@@ -4,7 +4,6 @@
 
 ### B.Tech CSE (AI & ML) • Developer • Tech Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+%26+Learning;Exploring+AI+%26+ML;Writing+Code%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 
 </div>
 
